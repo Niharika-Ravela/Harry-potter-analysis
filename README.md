@@ -1,6 +1,6 @@
 # Harry-potter-analysis
 
-Medium: 
+Medium: https://medium.com/@ravelaniharika93/harry-potter-movie-script-analysis-d7d85dc8f92f 
 
 Harry Potter Movie Scripts
 Character dialogues for all 8 movies in the Harry Potter franchise, including additional information about each movie, its chapters, characters, places, and spells.

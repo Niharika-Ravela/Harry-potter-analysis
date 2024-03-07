@@ -1,5 +1,7 @@
 # Harry-potter-analysis
 
+Medium: 
+
 Harry Potter Movie Scripts
 Character dialogues for all 8 movies in the Harry Potter franchise, including additional information about each movie, its chapters, characters, places, and spells.
 
@@ -10,4 +12,4 @@ How have the characters with the most lines of dialogue varied across movies?
 
 What is the most popular location in each film?
 
-Which spells are used the most across the franchise? Do characters have a favorite spell?
+Which spells are used the most across the franchise?
